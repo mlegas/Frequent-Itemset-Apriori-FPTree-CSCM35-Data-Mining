@@ -5,3 +5,5 @@ The implemented algorithms are:
 * Frequent Itemsets
 * Apriori
 * FPTree Growth (__Step 2 unfinished__)
+
+The notebook file also contains a further performance analysis of the algorithms.
